@@ -4,24 +4,35 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://tse4.mm.bing.net/th/id/OIP.bA3FrHZBjOYGmh9viW68CAHaHa?pid=Api" alt="Photo" hspace="20" width="30%" al>My name is Fiia. I am a student in the University of Helsinki studying language technology and society and change. I've studied in the department of languages
+for two years already, but decided that I want so pursue societal studies instead. Nevertheless, I'm going to finish
+my bachelor's program in the department of languages and do a bachelor's thesis on language technology. The topic of
+my thesis isn't clear yet but I would like to do or review research on AI tools in digital advertising.
+In my studies of society and change I'm so far mostly interested in studying political history, though economic history
+seems interesting as well! On my free time I like to do creative things like drawing and painting, and I also really
+enjoy cooking and making my own bread :)
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/fif311)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is fiia.suomi@helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Corpus linguistics](https://studies.helsinki.fi/kurssit/toteutus/otm-09b6cdbe-37f2-4854-abf3-b5b529f4ee8b/KIK-404)
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Programming for linguists](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2526-2b1a1c0f-9701-4397-9e19-ab80b0c87af4/KIK-LG208)
 
 ## Projects
 
-## Misc. 
+[Command line course](https://github.com/fif311/fif311.github.io)
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+## My CV
+
+[CV](https://www.overleaf.com/read/wbhfrqvqpnfw#f101c3)
+## Misc.
+
+[Bread](https://www.bbcgoodfood.com/recipes/easy-white-bread)
